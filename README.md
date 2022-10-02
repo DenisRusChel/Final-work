@@ -21,4 +21,6 @@
 
 ![Блок-схема](Block_diagram\Сhart.png)
 
+Реализация программного кода → Task\Program.cs
+
 
